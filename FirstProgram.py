@@ -1,3 +1,3 @@
-print("Hello, World!")
+print("shruti mahajan","my age is 20" )
 
-print("shruti mahajan")
+print("my age is 20")
