@@ -1,11 +1,5 @@
-name="shruti"
-age=20 
-price=25.99
+a=5
+b=2
 
-print(name)
-print(age)
-print(price)
-
-print("my name is :",name)
-print("my age is :",age)
-print("the price is :",price)
+sum=a+b
+print(sum)
