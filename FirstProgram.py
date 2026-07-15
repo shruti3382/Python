@@ -1,4 +1,3 @@
-first = int(input("enter first"))
-second = int(input("enter second"))
+side = float(input("enter square side"))
 
-print("sum=",first + second)
+print("area =", side * side)
