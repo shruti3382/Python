@@ -1,3 +1,4 @@
-side = float(input("enter square side"))
+a = float (input("enter first"))
+b = float (input("enter second"))
 
-print("area =", side * side)
+print("avg =",(a+b)/2)
