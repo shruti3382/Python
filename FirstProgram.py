@@ -1,5 +1,4 @@
-a=5
-b=2
+first = int(input("enter first"))
+second = int(input("enter second"))
 
-sum=a+b
-print(sum)
+print("sum=",first + second)
